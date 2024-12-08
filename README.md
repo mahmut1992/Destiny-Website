@@ -10,10 +10,6 @@ Bu repoda Html, Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı
 
 -Dinamik Navbar
 
--Carousel Yapısı
-
--Accordion Yapısı
-
 # 🛠️Kullanılan Teknolojiler
 
 -Html
