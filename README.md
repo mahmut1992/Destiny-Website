@@ -1,6 +1,6 @@
 # 🏠DESTINY-WEBSİTE
 
-Bu repoda Html, Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
+Bu repoda Html, Css ve Bootstrap kullanılarak bir bağış websitesi tasarlanmıştır.
 
 # 🚀Özellikler
 
