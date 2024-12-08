@@ -1,16 +1,16 @@
 # 🏠DESTINY-WEBSİTE
 
-Bu repoda Html, Css ve Bootstrap kullanılarak bir bağış websitesi tasarlanmıştır.
+In this repo, a donation website was designed using Html, Css and Bootstrap.
 
-# 🚀Özellikler
+# 🚀Features
 
--Responsive Tasarım
+-Responsive Design
 
--Kullanıcı Dostu Arayüz
+-User-Friendly Interface
 
--Dinamik Navbar
+-Dynamic Navbar
 
-# 🛠️Kullanılan Teknolojiler
+# 🛠️Technologies Used
 
 -Html
 
@@ -20,14 +20,14 @@ Bu repoda Html, Css ve Bootstrap kullanılarak bir bağış websitesi tasarlanm�
 
 -Bootstrap
 
-# Ekran Görüntüsü
+# Screenshot
 
 ![EkranKayd2024-12-08194241-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/741efbf0-b799-4866-a0bc-60a45e733eb7)
 
 
-# 📨İletişim
+# 📨Communication
 
-Soru, görüş ve önerileriniz için iletişime geçiniz:fratsbht@icloud.com
+Please contact us for your questions, comments and suggestions.:fratsbht@icloud.com
 
 
 
